@@ -7,7 +7,7 @@
     tools:context=".PetsActivity">
 
     <com.google.android.material.tabs.TabLayout
-        android:id="@+id/idTableLayout"
+        android:id="@+id/idTabLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:contentDescription="TabPets">
